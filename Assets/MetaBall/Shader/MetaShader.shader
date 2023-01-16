@@ -59,7 +59,8 @@ Shader "TK/Custom/MetaShader"
                 const float3 rayDir = normalize(pos.xyz - _WorldSpaceCameraPos); 
                 const half3 halfDir = normalize(_WorldSpaceLightPos0.xyz - rayDir); 
 
-                for (int i = 0; i < 40; i++)
+                //ŒvŽZ‰ñ”‚ÍŽ‹–ìŠp“x‚É‚æ‚Á‚Ä•Ï‚¦‚Ä‚­‚¾‚³‚¢B
+                for (int i = 0; i < 90; i++)
                 {
                     //Å’Z‹——£
                     float dist = getDistance(pos);
