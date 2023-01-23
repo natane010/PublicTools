@@ -14,3 +14,10 @@ https://user-images.githubusercontent.com/76082003/212644343-7c76ac64-962c-48e4-
 
 https://user-images.githubusercontent.com/76082003/212644247-6cd82510-6a5a-4f7b-8dcd-4e7baeccefd2.mp4
 
+３　ComputeShader
+
+ComputeShaderでたくさん描画するサンプルです。
+時間があり次第VATとインポスターシェーダーに対応して、さらに軽量化します。
+
+Uploading PublicTools - Sample - Windows, Mac, Linux - Unity 2021.3.11f1 Personal_ _DX11_ 2023-01-23 15-29-14.mp4…
+
