@@ -22,6 +22,8 @@ ComputeShaderでたくさん描画するサンプルです。
 https://user-images.githubusercontent.com/76082003/213978504-841d017f-3b8e-4242-8121-abdf186169f4.mp4
 
 4 PostProcess
+
 ポストプロセスのサンプルです。
+そこそこ追加していきます。
 
 https://user-images.githubusercontent.com/76082003/214195143-79fdc841-28e9-4287-93bd-9c959421e4c5.mp4
